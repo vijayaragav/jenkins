@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class Admin_PageObjects {
 
-    //
+
     @FindBy(id = "menu_admin_viewAdminModule")
     public static WebElement admin;
 
