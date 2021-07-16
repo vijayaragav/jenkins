@@ -25,6 +25,7 @@ public class CommonFuntions {
         properties = new Properties();
         properties.load(inputStream);
         return properties;
+        //
     }
 
     @BeforeSuite
