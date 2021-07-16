@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="FaceBookTesting">
+    <test name="VerifyLeaveRequests">
+<classes>
+    <class name="testCases.PendingLeaveRequests">
+
+    </class>
+</classes>
+</test>-->
+    <test name="VerifyUsers">
+        <classes>
+            <class name="testCases.Search_Users">
+
+            </class>
+        </classes>
+    </test>
+</suite>

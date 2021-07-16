@@ -1,0 +1,5 @@
+
+j
+java:S2095	"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¥»ù„ýÿÿÿÿ8´ºøê¢/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ®éÀûÿÿÿÿ8´ºøê¢/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì‹‡âøÿÿÿÿ

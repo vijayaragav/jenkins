@@ -1,0 +1,27 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ïš¾Å£/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(î«¹»øÿÿÿÿ8Ïš¾Å£/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ôãÿæýÿÿÿÿ8Ïš¾Å£/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(î«¹»øÿÿÿÿ8Ïš¾Å£/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¡‚çþÿÿÿÿ8Ïš¾Å£/
+|
+java:S1149K"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ò¦Ç‹8Ïš¾Å£/
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ïš¾Å£/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ïš¾Å£/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ôãÿæýÿÿÿÿ8Ïš¾Å£/
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ò¦Ç‹8Ïš¾Å£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î«¹»øÿÿÿÿ8Ïš¾Å£/
+X	java:S125i"<This block of commented-out lines of code should be removed.(å½˜Ÿ8îÄÇÅ£/
+|
+java:S1149_"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ò¦Ç‹8Ïš¾Å£/
+w
+java:S1192"UDefine a constant instead of duplicating this literal "The status code is: " 4 times.(î«¹»øÿÿÿÿ8Ïš¾Å£/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8Ïš¾Å£/
+|
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ò¦Ç‹8Ïš¾Å£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ôãÿæýÿÿÿÿ8Ïš¾Å£/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(î«¹»øÿÿÿÿ8Ïš¾Å£/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ôãÿæýÿÿÿÿ8Ïš¾Å£/
+s
+java:S1192"QDefine a constant instead of duplicating this literal "The Message is: " 4 times.(Ôãÿæýÿÿÿÿ8Ïš¾Å£/

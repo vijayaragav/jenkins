@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÁ½ÿ8¼µÖ“£/
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(˜º€º8°¼ï“£/
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì‹‡âøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š‰´–8çñ“£/
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ñå“u8Ûœ×“£/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(à‡æûÿÿÿÿ8­Şÿ™£/

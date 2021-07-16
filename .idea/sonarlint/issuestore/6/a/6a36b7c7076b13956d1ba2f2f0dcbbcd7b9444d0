@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôèæ¾8Á¢ê¢/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÜö¢8Á¢ê¢/
+W
+java:S1128":Remove this unused import 'com.google.common.base.Verify'.(–õÀ8¦»«/
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úôÅ¢ÿÿÿÿÿ8Á¢ê¢/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ûâ‹Á8Á¢ê¢/
